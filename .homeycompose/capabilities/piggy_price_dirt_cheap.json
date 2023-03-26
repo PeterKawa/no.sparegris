@@ -1,10 +1,8 @@
 {
   "type": "boolean",
   "title": {
-    "en": "Price level",
-    "no": "Prispunkt",
-    "nl": "Prijs niveau",
-    "fr": "Niveau de prix"
+    "en": "Price Point",
+    "no": "Prispunkt"
   },
   "getable": true,
   "setable": false,
@@ -12,15 +10,11 @@
   "uiQuickAction": false,
   "insightsTitleTrue": {
     "en": "Price Point changed to dirt cheap",
-    "no": "Prispunkt endret til grisebillig",
-    "nl": "Prijsniveau veranderd naar spotgoedkoop",
-    "fr": "Le niveau de prix est devenu très bon marché"
+    "no": "Prispunkt endret til grisebillig"
   },
   "insights": true,
   "insightsTitleFalse": {
     "en": "Price Point changed to dirt cheap",
-    "no": "Prispunkt endret til grisebillig",
-    "nl": "Prijsniveau veranderd naar spotgoedkoop",
-    "fr": "Le niveau de prix est devenu très bon marché"
+    "no": "Prispunkt endret til grisebillig"
   }
 }

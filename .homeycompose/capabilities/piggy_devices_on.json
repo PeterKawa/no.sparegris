@@ -2,9 +2,7 @@
   "type": "number",
   "title": {
     "en": "Power State",
-    "no": "Forbrukstilstand",
-    "nl": "Energiestatus",
-    "fr": "État de l'alimentation"
+    "no": "Forbrukstilstand"
   },
   "units": {
     "en": "%"
@@ -12,14 +10,13 @@
   "insights": true,
   "desc": {
     "en": "Number of controllable enabled devices in percent (%)",
-    "no": "Antall kontrollerbare påslåtte enheter i (%)",
-    "nl": "Aantal bestuurbare ingeschakelde apparaten in procent (%)",
-    "fr": "Nombre d'appareils activés contrôlables en pourcentage (%)"
+    "no": "Antall kontrollerbare påslåtte enheter i (%)"
   },
   "chartType": "spline",
   "decimals": 0,
   "getable": true,
   "setable": false,
   "uiComponent": "sensor",
+
   "icon": "/assets/percent.svg"
 }

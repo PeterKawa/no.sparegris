@@ -2,15 +2,11 @@
     "type": "number",
     "title": {
         "en": "Money",
-        "no": "Penger",
-"nl": "Geld",
-"fr": "argent"
+        "no": "Penger"
     },
     "units": {
       "en": "NOK",
-      "no": "kr",
-"nl": "€",
-"fr": "€"
+      "no": "kr"
     },
     "insights": true,
     "chartType": "spline",
