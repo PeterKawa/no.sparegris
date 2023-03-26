@@ -1,0 +1,48 @@
+{
+  "title": {
+    "en": "Enable/disable zones",
+    "no": "Slå av/på sone",
+    "nl": "Zones in-/uitschakelen",
+    "fr": ""
+  },
+  "titleFormatted": {
+    "en": "Change zone enabled for [[zone]] to [[enabled]]",
+    "no": "Endre sone [[zone]] aktiv til [[enabled]]",
+    "nl": "Verander zone [[zone]] actief naar [[enabled]]",
+    "fr": ""
+  },
+  "hint": {
+    "en": "Allows you to turn on/off devices in zones e.g. in connection with ventilation. You may have to restart Piggy Bank if you changed name of a zone. If the app is disabled the zone list may be empty.",
+    "no": "Tillater deg å slå av/på enheter i soner f.eks. i forbindelse med lufting. Du må kanskje starte Sparegris på nytt dersom du har endret navn på en sone. Dersom appen er deaktivert kan sone-listen være tom.",
+    "nl": "Hiermee kun je apparaten in zones in-/uitschakelen, bijvoorbeeld in verband met ventilatie. Het kan zijn dat je Piggy Bank opnieuw moet opstarten als je de naam van een zone hebt gewijzigd. Als de app is uitgeschakeld, kan de zonelijst leeg zijn.",
+    "fr": ""
+  },
+  "args": [
+    {
+      "type": "autocomplete",
+      "name": "zone",
+      "title": {
+        "en": "Zone name",
+        "no": "Sone navn",
+    "nl": "Zonenaam",
+    "fr": ""
+      },
+      "placeholder": {
+        "en": "Name of the zone as defined in Homey",
+        "no": "Navn på sone som definert i Homey",
+    "nl": "Naam van de zone zoals gedefinieerd in Homey",
+    "fr": ""
+      }
+    },
+    {
+      "type": "checkbox",
+      "name": "enabled",
+      "title": {
+        "en": "Enabled",
+        "no": "Påslått",
+    "nl": "Ingeschakeld",
+    "fr": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+  {
+    "type": "number",
+    "title": {
+        "en": "Money",
+        "no": "Penger",
+"nl": "Geld",
+"fr": ""
+    },
+    "units": {
+      "en": "NOK",£
+      "no": "kr",
+"nl": "€",
+"fr": "€"
+    },
+    "insights": true,
+    "chartType": "spline",
+    "decimals": 2,
+    "getable": true,
+    "setable": false,
+    "uiComponent": "sensor",
+
+    "icon": "/assets/money.svg"
+  }

@@ -1,0 +1,44 @@
+{
+  "type": "boolean",
+  "title": {
+    "en": "Price level",
+    "no": "Prispunkt",
+    "da": "Prisniveau",
+    "de": "Preisniveau",
+    "es": "Nivel de precios",
+    "fr": "Niveau de prix",
+    "it": "Livello di prezzo",
+    "pl": "Poziom cen",
+    "ru": "Уровень цен",
+    "sv": "Prisnivå"
+  },
+  "getable": true,
+  "setable": false,
+  "uiComponent": null,
+  "uiQuickAction": false,
+  "insightsTitleTrue": {
+    "en": "Price level changed to normal",
+    "no": "Prispunkt endret til normalpris",
+    "da": "Prisniveau ændret til normalt",
+    "de": "Preisniveau auf normal geändert",
+    "es": "Nivel de precios cambiado a normal",
+    "fr": "Niveau de prix changé en normal",
+    "it": "Livello di prezzo cambiato in normale",
+    "pl": "Poziom cen zmieniony na normalny",
+    "ru": "Уровень цен изменен на обычный",
+    "sv": "Prisnivå ändrat till normalt"
+  },
+  "insights": true,
+  "insightsTitleFalse": {
+    "en": "Price level changed to normal",
+    "no": "Prispunkt endret til normalpris",
+    "da": "Prisniveau ændret til normalt",
+    "de": "Preisniveau auf normal geändert",
+    "es": "Nivel de precios cambiado a normal",
+    "fr": "Niveau de prix changé en normal",
+    "it": "Livello di prezzo cambiato in normale",
+    "pl": "Poziom cen zmieniony na normalny",
+    "ru": "Уровень цен изменен на обычный",
+    "sv": "Prisnivå ändrat till normalt"
+  }
+}
